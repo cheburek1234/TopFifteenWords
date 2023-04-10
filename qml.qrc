@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HistogramView.qml</file>
+        <file>ProgressView.qml</file>
+        <file>CustomButton.qml</file>
+        <file>CustomTextField.qml</file>
+    </qresource>
+</RCC>
